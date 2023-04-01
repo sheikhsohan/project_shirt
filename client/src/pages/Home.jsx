@@ -48,7 +48,7 @@ const Home = () => {
             </motion.div>
           </motion.div>
           <footer className="fixed bottom-0 right-0 w-full text-gray text-center p-2 sm:flex-row sm:w-auto">
-            Designed by <strong className='text-red-600'>Sohan</strong>
+            Developed by <strong className='text-red-600'>Sohan</strong>
           </footer>
 
         </motion.section>
